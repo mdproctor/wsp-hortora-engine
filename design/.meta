@@ -1,0 +1,9 @@
+branch: issue-3-multi-domain-filter
+project-sha: c98df632c3279a208fbacd07609852be90385e43
+date: 2026-06-08
+issue: 3
+issue-repo: Hortora/garden-engine
+covers: 3,4
+flyway-next-v: none
+design-repo: project
+design-section-hashes:
