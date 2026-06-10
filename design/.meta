@@ -1,0 +1,9 @@
+branch: issue-5-federation-chain-walk
+project-sha: a59c6c70835406e3344f175666db6e788d399121
+date: 2026-06-10
+issue: 5
+issue-repo: Hortora/engine
+covers: 5
+flyway-next-v: unknown
+design-repo: workspace
+design-section-hashes: 
