@@ -5,11 +5,11 @@ date: 2026-06-06
 type: phase-update
 entry_type: note
 subtype: diary
-projects: [garden-engine]
+projects: [engine]
 tags: [langchain4j, qdrant, retrieval]
 ---
 
-The first real feature work on garden-engine was fixing something that looked
+The first real feature work on engine was fixing something that looked
 correct but wasn't.
 
 The search endpoint was filtering by domain after Qdrant returned results. At

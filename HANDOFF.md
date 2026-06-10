@@ -1,4 +1,4 @@
-# Hortora garden-engine — Project Handoff
+# Hortora engine — Project Handoff
 
 *Last updated: 2026-06-08*
 
@@ -28,6 +28,6 @@ Open a PR for `issue-3-multi-domain-filter` → main, then merge.
 
 | Resource | Location |
 |---|---|
-| garden-engine spec | `docs/DESIGN.md` |
+| engine spec | `docs/DESIGN.md` |
 | Phase 2 spec | `casehubio/onnx-inference` design doc |
-| Open issues | `gh issue list --repo Hortora/garden-engine` |
+| Open issues | `gh issue list --repo Hortora/engine` |

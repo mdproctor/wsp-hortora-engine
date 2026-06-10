@@ -1,12 +1,12 @@
-# garden-engine Workspace
+# engine Workspace
 
-**Name:** garden-engine
-**Project repo:** /Users/mdproctor/claude/hortora/garden-engine
+**Name:** engine
+**Project repo:** /Users/mdproctor/claude/hortora/engine
 **Workspace type:** public
 
 ## Session Start
 
-Run `add-dir /Users/mdproctor/claude/hortora/garden-engine` and `add-dir /Users/mdproctor/claude/public/hortora/garden-engine` before any other work.
+Run `add-dir /Users/mdproctor/claude/hortora/engine` and `add-dir /Users/mdproctor/claude/public/hortora/engine` before any other work.
 
 ## Artifact Locations
 
@@ -34,13 +34,13 @@ Run `add-dir /Users/mdproctor/claude/hortora/garden-engine` and `add-dir /Users/
 ## Git Discipline
 
 Two git repositories are active in every session:
-- **Workspace** (`/Users/mdproctor/claude/public/hortora/garden-engine`) — plans, blog, snapshots, handover
-- **Project repo** (`/Users/mdproctor/claude/hortora/garden-engine`) — source code, ADRs, specs
+- **Workspace** (`/Users/mdproctor/claude/public/hortora/engine`) — plans, blog, snapshots, handover
+- **Project repo** (`/Users/mdproctor/claude/hortora/engine`) — source code, ADRs, specs
 
 Never rely on CWD for git operations. Always use explicit paths:
 ```bash
-git -C /Users/mdproctor/claude/public/hortora/garden-engine add <file>   # workspace
-git -C /Users/mdproctor/claude/hortora/garden-engine add <file>          # project
+git -C /Users/mdproctor/claude/public/hortora/engine add <file>   # workspace
+git -C /Users/mdproctor/claude/hortora/engine add <file>          # project
 ```
 
 ## Rules
@@ -60,4 +60,4 @@ git -C /Users/mdproctor/claude/hortora/garden-engine add <file>          # proje
 | snapshots  | workspace   |
 | handover   | workspace   |
 
-@/Users/mdproctor/claude/hortora/garden-engine/CLAUDE.md
+@/Users/mdproctor/claude/hortora/engine/CLAUDE.md
