@@ -1,25 +1,23 @@
 # Hortora engine — Project Handoff
 
-*Last updated: 2026-06-08*
+*Updated: #3, #4 closed and merged — removed from in-flight.*
+
+*Last updated: 2026-06-10*
 
 ---
 
 ## What's In Flight
 
-Branch `issue-3-multi-domain-filter` (pushed, not yet merged):
-- Closes #3: `?domain=jvm&domain=tools` multi-domain filter via `IsIn`
-- Closes #4: SearchResource refactor — `doSearch()` extracted, unchecked cast removed, `parseCurationScore` renamed
-
-PR creation pending — branch is pushed to origin, no PR opened yet.
+Nothing — main is clean, no open branches with pending work.
 
 ## Immediate Next Step
 
-Open a PR for `issue-3-multi-domain-filter` → main, then merge.
+Pick up next work item — no open issues remain on GitHub. Decide what to tackle next from the What's Next backlog.
 
 ## What's Next
 
-| # | Description | Scale | Complexity |
-|---|-------------|-------|------------|
+| # | Description | Scale | Complexity | Notes |
+|---|-------------|-------|------------|-------|
 | — | Phase 2 design: SPLADE + cross-encoder reranker | L | High | Gated on casehubio/onnx-inference prototype |
 | — | Federation: canonical/child chain walk | M | Med | Hortora-specific, no shared module |
 | — | Incremental re-indexing / file watching | S | Med | Startup-only currently |
