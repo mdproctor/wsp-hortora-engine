@@ -1,0 +1,9 @@
+branch: issue-6-federation-review-findings
+project-sha: 90ec005ed1ee6c750eaec4bb2e3a37f24b221007
+date: 2026-06-13
+issue: 6
+issue-repo: Hortora/engine
+covers: 6
+flyway-next-v: none
+design-repo: workspace
+design-section-hashes: 
